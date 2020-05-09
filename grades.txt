@@ -1,0 +1,27 @@
+Semester	Fall 2019
+CPSC 20000	Introduction to Computer Science	3	B+
+MATH 31000	Discrete Mathematics	4	B
+CPSC 24700	Web and Distributed Programming	3	A
+HIST 10100	Global History I	3	A
+ENGL 11100	College Writing I	3	B-
+
+Semester	Spring 2020
+CPSC 21000	Programming Fundamentals	3	B
+MATH 24000	Applied Calculus	3	B-
+CPSC 23000	.Net Programming	3	A
+HIST 10200	Global History II	3	B+
+ENGL 11200	College Writing II	3	B
+
+Semester	Fall 2020
+CPSC 24500	Object-Oriented Programming	3	A
+MATH 30500	Linear Algebra	3	B
+ENGL 22000	American Literature	3	A
+PHYS 21000	General Physics I	4	B+
+CPSC 22000	Unix	3	A
+
+Semester	Spring 2021
+CPSC 35000	Operating Systems	3	A
+PHYS 21500	General Physics II	4	A
+THEO 10000	Search for Faith	3	A
+SOCI 29000	Diversity and Social Justice	3	B+
+CPSC 41700	Mobile Application Development	3	A
